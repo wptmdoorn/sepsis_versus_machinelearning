@@ -1,0 +1,12 @@
+fancyimpute==0.4.0
+lightgbm==2.2.3
+pandas==0.25.3
+scikit_optimize==0.5.2
+shap==0.34.0
+scipy==1.2.1
+tabulate==0.8.2
+numpy==1.18.2
+Keras==2.2.4
+tensorflow==2.0.0
+matplotlib==3.2.0
+scikit_learn==1.0
